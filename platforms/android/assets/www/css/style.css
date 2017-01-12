@@ -1,0 +1,9 @@
+/* Empty. Add your own CSS if you like */
+.rating{
+  position: absolute;
+  bottom: 6px;
+}
+
+#lista h2, p{
+  white-space: normal;
+}
